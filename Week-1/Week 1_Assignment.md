@@ -15,13 +15,11 @@ Welcome to your first week of the WnCC Machine Learning course! To make things e
 
 **The Mission:** You have been handed the passenger manifest of the Titanic. Your job is to load it, clean up the messy bits (missing ages, weird cabin numbers), and visualize the demographics and survival rates using Python. This is required for everyone completing Week 1!
 
-🔗 **[https://colab.research.google.com/drive/1CHw0Pgosl_QRkjGFF-6zV_DgCWMmaGZe?usp=sharing]** *(Replace this text with your actual Colab share link!)*
-
----
+🔗 **[https://colab.research.google.com/drive/1CHw0Pgosl_QRkjGFF-6zV_DgCWMmaGZe?usp=sharing]** 
 
 ## The Hacker Track: Movie Critic AI (Optional / Advanced)
 **Objective:** Build your first NLP model using Classical ML.
 
 **The Mission:** Finished the main mission early? Already know a bit of Python? Take on the Hacker Track! We are going to train a Logistic Regression model to read IMDb movie reviews and determine if they are positive or negative. You will load the dataset, convert words to numbers using TF-IDF, and evaluate your model's accuracy, F1 score, and confusion matrix.
 
-🔗 **[https://colab.research.google.com/drive/1MnmQa8XAKslw5lUtO_R6VxBbQlEi9q-j?usp=sharing]** *(Replace this text with your actual Colab share link!)*
+🔗 **[https://colab.research.google.com/drive/1MnmQa8XAKslw5lUtO_R6VxBbQlEi9q-j?usp=sharing]**
